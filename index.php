@@ -58,25 +58,29 @@
       <p><strong>Lunes a viernes de las 9:00 a las 14:00 horas<br>
         Costo: $32.00 por sesión</strong> </p>
 
-<!--
-      <div class="container">
-        <div class="row">
-          <div class="col-sm">
-            <a href="./images/xint2.jpg">
-              <img src="./images/xint2.jpg" alt="Estudiantes de Ingeniería Financiera, rumbo a la Universidad de Santander en Colombia" class="img-fluid rounded">
-            </a>
-          </div>
-          <div class="col-sm">
-            <a href="./images/xint4.jpg">
-              <img src="./images/xint4.jpg" alt="Estudiantes de la UPP, particantes de la convocatoria Grupo UNIS, en la ciudad de Varghinia, Brasil" class="img-fluid rounded">
-            </a>
+        <div class="container">
+          <div class="row">
+
+            <div class="col-sm-4">
+              <a href="./mc/eqt1.jpg">
+                <img src="./mc/eqt1.jpg" alt="ceetupp" class="img-fluid img-thumbnail">
+              </a>
+            </div>
+            <div class="col-sm-4">
+              <a href="./mc/eqt2.jpg">
+                <img src="./mc/eqt2.jpg" alt="ceetupp" class="img-fluid img-thumbnail">
+              </a>
+            </div>
+            <div class="col-sm-4">
+              <a href="./mc/eqt3.jpg">
+                <img src="./mc/eqt3.jpg" alt="ceetupp" class="img-fluid img-thumbnail">
+              </a>
+            </div>
+
           </div>
         </div>
-      </div>
-
-      <br>
-      <br>
--->
+        <br>
+        <br>
       <h1>Charrería</h1>
 
       <p>Arte considerado como Patrimonio Cultural Inmaterial de la Humanidad. La Universidad Politécnica de Pachuca a través de su Centro Ecuestre y de Equinoterapia otorga a los interesados la Escuela de Charrería para mejorar las técnicas de las suertes charras, sumado al orgullo de contribuir a mantener  vivas nuestras tradiciones, la identidad como mexicanos y aportar beneficios a la gente de la región y del estado que practique la disciplina.</p>
@@ -86,23 +90,24 @@
       <p><strong>Lunes a viernes de las 15:30 a 18:30 horas<br>
         Costo: $75.00 por clase, público en general</strong></p>
 
-<!--
-      <div class="container">
-        <div class="row">
-          <div class="col-sm">
-            <a href="./images/xint5.jpg">
-              <img src="./images/xint5.jpg" alt="Movilida académica internacional en Grupo Unis, en Varghinia, Brasil" class="img-fluid rounded">
-            </a>
-          </div>
-          <div class="col-sm">
-            <iframe width="100%" height="315" class="embed-responsive-item" src="https://www.youtube.com/embed/zILtmXy5wlE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        <div class="container">
+          <div class="row">
+
+            <div class="col-sm-6">
+              <a href="./mc/charreria1.jpg">
+                <img src="./mc/charreria1.jpg" alt="ceetupp" class="img-fluid img-thumbnail">
+              </a>
+            </div>
+            <div class="col-sm-6">
+              <a href="./mc/charreria2.jpg">
+                <img src="./mc/charreria2.jpg" alt="ceetupp" class="img-fluid img-thumbnail">
+              </a>
+            </div>
+
           </div>
         </div>
-      </div>
-
-      <br>
-      <br>
--->
+        <br>
+        <br>
 
 
 
